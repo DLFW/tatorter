@@ -67,7 +67,14 @@ team_to_location = {
     "Stark":"Berlin",
     "Schimanski und Thanner":"Duisburg",
     "Borowski":"Kiel",
-    "Odenthal und Stern":"Ludwigshafen"
+    "Odenthal und Stern":"Ludwigshafen",
+    "Murot und Wächter":"Wiesbaden",
+    "Borowski und Sahin":"Kiel",
+    "Faber, Bönisch, Dalay und Pawlak":"Dortmund",
+    "Tobler":"Freiburg",
+    "Tobler und Berg":"Freiburg",
+    "Lindholm und Schmitz":"Hannover",
+    "Gorniak, Winkler und Schnabel":"Dresden",
     }
 
 class WikipdediaDEGrabber(object):
